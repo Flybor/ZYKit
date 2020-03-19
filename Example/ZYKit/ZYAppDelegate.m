@@ -7,12 +7,14 @@
 //
 
 #import "ZYAppDelegate.h"
-
+#import <ZYKit.h>
 @implementation ZYAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    [UIColor testColor];
+    [NSString testString];
     return YES;
 }
 

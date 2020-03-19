@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/510462142@qq.com/ZYKit'
+  s.homepage         = 'https://github.com/Flybor/'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '510462142@qq.com' => '18780106592@163.com' }
-  s.source           = { :git => 'https://github.com/510462142@qq.com/ZYKit.git', :tag => s.version.to_s }
+  s.author           = { 'Flybor' => '18780106592@163.com' }
+  s.source           = { :git => 'https://github.com/Flybor/ZYKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
